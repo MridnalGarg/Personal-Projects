@@ -1,0 +1,18 @@
+.back-to-home{
+	background-color: #111;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	padding-left: 15px; 
+	padding-right: 15px;
+	overflow: hidden;
+	border: none;	
+	color: white;
+	text-align: center;
+	font-style: normal;
+	font-family:Century Gothic;
+	float: left;
+	border-width: 2px 2px 2px;
+}
+
+
+
