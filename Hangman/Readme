@@ -1,1 +1,28 @@
+Group Information:
+Group ID (GID): VpLNws5UY
+Group Lead : Mridnal Garg
+Selected Project: Hangman
+
+ABOUT Hangman- The Game of Guesses:
+
+**************************************************************************************
+We got a situation here for you. A man has been hanged up by the rope and he need your
+help to get out. You need to guess the secret code which is a secret WORD. 
+
+Rules:
+           1.  You will get 5 chances, everytime you guess a wrong letter 1 chance will be
+	deducted and the man moves 1 step forward towards death.
+           2. Guess the word letter by letter.
+           3. You got time, so don't be in a hurry.
+We wish you LUCK!
+**************************************************************************************
+
+Updates can be made to the game are as follows:-
+
+1. Words can be categorized
+2. Levels can be introduced (Hard/moderate/easy)
+3. Hints can be given with a loss of some guesses
+4. Points system
+5. Multiplayer guess the word race
+
 
