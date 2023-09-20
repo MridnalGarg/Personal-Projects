@@ -1,1 +1,23 @@
+### To Run The Application ###
+  1. Create Virtual Environment
+  2. Install Dependencies using PIP from requirements.txt
+  3. Setup a PostgreSQL Database using pgmyadmin
+  4. Edit Database Settings in Settings.py
+  3. Run cmd python manage.py makemigrations
+  4. Run cmd python manage.py migrate
+  5. Run cmd python manage.py runserver
+
+### Project Scope (Virtudoc) ###
+- The disease prediction system have users doctor and patient. 
+- There is a role based access to the system.
+- The system allows the patient to give symptoms and according to those symptoms the system will predict a disease.
+- The system suggests doctors for predicted diseases.
+- The system allows online consultation for patients.
+- The system helps the patients to consult the doctor at their convenience by sitting at home. 
+
+### TECHNOLOGY USED ###
+ Front end: HTML, CSS , Bootstrap, Javascript, Jquery
+ Back end: Django (python based web framework)
+ Database: PostgreSQL
+ Tools: PgMyadmin
 
